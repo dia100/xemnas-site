@@ -1,0 +1,244 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    line-height:100px;
+    padding: 0 20px;
+
+
+}
+ul li a{
+    display:block;
+    text-decoration: none;
+    font-size: 13px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+
+}
+
+ul{
+    background-color: black;
+    overflow: scroll;
+
+}
+ul li a:hover{
+    color:rgb(145, 208, 103);
+
+}
+
+p{
+    font-size: 20px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center ;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:#BC986A;
+}
+
+.imgTwo{
+    padding-left: 13cm ;
+}
+
+footer{
+    font-family: optima;
+    font-size:24px;
+    text-align: center;
+}
+
+.foot{
+
+    text-align: center;
+
+}
+
+.redOne{
+    font-size: 20px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center ;
+    border: tr;
+  
+}
+
+.redOneOTwo{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: upper-roman;
+}
+
+.blue{
+    padding-right:7cm;
+    padding-bottom:50px;
+
+
+
+}
+
+.redTwo{
+
+    font-size: 12px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    padding-top: 20px;
+
+
+}
+
+.red{
+    padding-right: 7cm;
+    
+}
+
+.titleP{
+
+    font-size: 20px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center ;
+
+}
+.lion{
+    padding-left: 12.5cm;
+}
+
+.hellothere{
+
+    font-size: 20px;
+color:black;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.blueHelo{
+    padding-right: 8cm;
+
+}
+.blueHello{
+    padding-right:14cm;
+}
+
+.blueHelloo{
+    padding-right:2cm;
+
+}
+
+.redDotTwo{
+    padding-top:1cm;
+    padding-right:5cm;
+}
+.redDotoTwo{
+    padding-right:3cm;
+}
+.redDotoTwoo{
+    padding-right: 0.75cm;
+    padding-top: 0.25cm;
+}
+.redDotoTwooo{
+    padding-right: 5cm;
+    padding-top: 0.25cm;
+}
+.redNile{
+    padding-right:4cm;
+}
+.blueHellooo{
+    padding-right:4cm;
+
+}
+.righty{
+    padding-left:12.5cm;
+}
+
+.black{
+    background-image: url(1.jpg);
+    
+}
+.subhead{
+    opacity: 1;
+}
+.blackTwo{
+    background-image:url(lion.jpg);
+    background-size:cover;
+    opacity:0.5;
+    overflow: scroll;
+}
+.blackTwo:hover{
+    opacity:1;
+
+}
+.ontop{
+    color:black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 56px;
+    text-align: center;
+    
+}
+.ontop2{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 56px;
+    text-align: center;
+    opacity: 0;
+}
+
+.orange{
+    background-color:rgb(134,167,196);
+    font-family: optima;
+    font-size:24px;
+    text-align: center;
+}
+.ontop2:hover{
+    opacity:1;
+}
+
+.blueTwoDoo{
+    background-image: url(cooked-lobster-with-dinner-wooden-background_73110-8183.jpg);
+    background-size:cover ;
+    opacity:0.25;
+}
+.redSh{
+    text-align: right;
+    color:white;
+    padding-top:4cm;
+    font-family: 'Cedarville Cursive', cursive;
+    padding-right: 3cm;
+    
+}
+.blueTwoDoo:hover{
+
+    opacity:1;
+
+}
+.redTwoSh{
+    opacity:1;
+    text-align:right;
+    font-family: 'Pacifico', cursive;
+    color:black;
+    padding-right:12.5cm;
+    padding-top:4.6cm;
+    padding-left:1cm;
+  
+    font-size:32px;
+}
+
+
+
+.backgroundforLife{
+opacity:0.5;
+background-image: url(airplane-flying-above-clouds_shutterstock_553131187-1068x601.jpg);
+background-size:cover;
+}
+.backgroundforLife:hover{
+    opacity:0.85;
+}
